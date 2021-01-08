@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T13:41:00.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="CMOh9KUTUFVd7JOHClIJ" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-08T13:42:46.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="sj5b6xPNPKEsa7qn3Iy1" version="14.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -83,8 +83,8 @@
         <mxCell id="w0ampsSdZ3sBVxdebY1X-12" value="很早之前使用的就是 nginx" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#D0CEE2;fillColor=#FAD9D5;fontColor=#1A1A1A;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="260" width="50" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="w0ampsSdZ3sBVxdebY1X-13" value="&lt;h1&gt;nginx&lt;/h1&gt;&lt;p&gt;在 spring cloud 出来之前 ，很早之前使用的就是nginx，那么使用nginx 有没有什么弊端？ 为什么不用了呢？&lt;br&gt;&lt;/p&gt;&lt;p&gt;比如：到了电商大促，这样会增加很多的机器，就需要运维大量的配置&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;现在的技术根本不使用nginx去做这样的配置。&lt;/p&gt;&lt;p&gt;现在使用的都是 spring cloud&amp;nbsp; 和&amp;nbsp; eureka 或nacos&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;fontColor=#1A1A1A;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="540" width="570" height="210" as="geometry" />
+        <mxCell id="w0ampsSdZ3sBVxdebY1X-13" value="&lt;h1&gt;nginx&lt;/h1&gt;&lt;p&gt;在 spring cloud 出来之前 ，很早之前使用的就是nginx，那么使用nginx 有没有什么弊端？ 为什么不用了呢？&lt;br&gt;&lt;/p&gt;&lt;p&gt;比如：到了电商大促，这样会增加很多的机器，就需要运维大量的配置&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;现在的技术根本不使用nginx去做这样的配置。&lt;/p&gt;&lt;p&gt;现在使用的都是 spring cloud&amp;nbsp; 和&amp;nbsp; eureka 或nacos&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;在服务调用的时候，不要把服务器的名称 写死，这样不方便服务的扩容。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;sketch=0;fontColor=#1A1A1A;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="90" y="540" width="570" height="330" as="geometry" />
         </mxCell>
         <mxCell id="w0ampsSdZ3sBVxdebY1X-16" value="服务注册中心" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeColor=#82b366;fillColor=#d5e8d4;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="70" width="120" height="60" as="geometry" />
