@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-08T13:26:26.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="y8fUMHvL8atK63mYi3bQ" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-08T13:27:13.833Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="HPcmdkqYqHDRVUBI0ws2" version="14.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
           <mxGeometry x="440" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w0ampsSdZ3sBVxdebY1X-7" value="在eureka之前使用是nginx负载" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="360" width="350" height="70" as="geometry" />
+          <mxGeometry x="50" y="350" width="350" height="70" as="geometry" />
         </mxCell>
         <mxCell id="w0ampsSdZ3sBVxdebY1X-10" value="调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1A1A1A;" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="370" y="210.0000000000001" as="geometry" />
