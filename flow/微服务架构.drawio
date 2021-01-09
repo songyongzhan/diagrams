@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-09T06:13:24.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="6EilubwvW8TUhgsaxMJ-" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-09T06:15:14.897Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="AVKJPYUE_--XnYtgZPy7" version="14.1.8" type="github">
   <diagram id="4NoQpAXfG3ZIOkhWS6N4" name="第 1 页">
     <mxGraphModel dx="782" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -51,6 +51,21 @@
         </mxCell>
         <mxCell id="fkkXkPVEHaHYHS4pf3CL-17" value="积分微服务" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="605" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkkXkPVEHaHYHS4pf3CL-18" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#0303FF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="710" width="690" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fkkXkPVEHaHYHS4pf3CL-19" value="数据库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;dashed=1;strokeColor=#0303FF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="725" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkkXkPVEHaHYHS4pf3CL-20" value="云平台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;dashed=1;strokeColor=#0303FF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="725" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkkXkPVEHaHYHS4pf3CL-21" value="redis 缓存" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;dashed=1;strokeColor=#0303FF;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="725" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fkkXkPVEHaHYHS4pf3CL-22" value="基础设施层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="750" width="70" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
