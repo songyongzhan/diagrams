@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T09:37:53.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="SEONklCaW2AQJCwND82B" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T10:31:41.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="S378LP1sobVsV6qyeY0t" version="14.2.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -161,13 +161,13 @@
         <mxCell id="K7LgLsQIqdpyiLGAxLXc-14" value="nginx" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1080" y="245" width="120" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="K7LgLsQIqdpyiLGAxLXc-15" value="商城1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="K7LgLsQIqdpyiLGAxLXc-15" value="服务1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1380" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K7LgLsQIqdpyiLGAxLXc-16" value="&lt;span&gt;商城2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="K7LgLsQIqdpyiLGAxLXc-16" value="&lt;span&gt;服务2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1380" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K7LgLsQIqdpyiLGAxLXc-17" value="&lt;span&gt;商城3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="K7LgLsQIqdpyiLGAxLXc-17" value="&lt;span&gt;服务3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1380" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K7LgLsQIqdpyiLGAxLXc-24" value="这是早前年的服务架构，既然用到了集群，就是为了避免服务宕机，为了更多的服务。&lt;br&gt;&lt;br&gt;比如领导说 双12 搞一批活动，有100万 用户下单。&lt;br&gt;&lt;br&gt;怎们办？加机器&amp;nbsp; &amp;nbsp; &amp;nbsp;运维：申请服务器、搭建环境 、配置nginx、负载&amp;nbsp;&lt;br&gt;&lt;br&gt;双12 一过，流量下来了，又要把配置去掉。&amp;nbsp; &amp;nbsp;一增 一减&amp;nbsp; 都是人工操作的，服务难免会出问题？&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
